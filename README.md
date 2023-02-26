@@ -4,7 +4,7 @@ I'm a front-end developer and WordPress consultant. Most things in this profile 
 
 👨‍💻 I'm a full-time freelancer and I'm always looking for new interesting projects. My primary skill is front-end web development. Since the beginning of 2022, I found myself doing also a lot of backend work. But I'm not brave enough to call myself a full stack developer just yet. I also have experience with UI design and prototyping. I use Figma for that.
 
-Despite I do mostly development work for clients, I think my design experience helps me to keep an eye for detail, and to consult with clients to improve their conversion rates and other metrics. If you get a chance to read/view the content I put online, you will notice that I'm obsessed in building stuff that brings you real business benefits.
+Despite I do mostly development work for clients, my design experience helps me to keep an eye for detail, and to consult with clients to improve their conversion rates, MRR, churn rate, and other metrics. If you get a chance to read/view the content I publish online, you will notice that I'm obsessed in building stuff that brings you real business benefits.
 
 ### Who do I work with?
 
@@ -27,4 +27,4 @@ You can find some past client reviews on [my Codeable profile, here](https://www
 **Feel free to contact me even if you have just a question about WordPress.**
 
 
-    Version 1.0 - Last Edit: February 9 2023
+    Version 1.0.1 - Last Edit: February 26 2023
