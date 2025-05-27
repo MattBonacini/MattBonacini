@@ -11,6 +11,7 @@ Since 2022, after an eternity spent exclusively on client projects, I've also st
 ### Who do I work with, and what do I do?
 
 [On my business website you can check out the services I currently offer](https://wordpressadvisor.io/)
+
 [What I'm working on right now (updated every month or so)](https://wordpressadvisor.io/now)
 
 💼 Most of my clients are small businesses from the US. I'm based in Europe, born and raised in Italy, so how did that happen? I've been part of Codeable since 2019 (a top-class freelancing platform), and most of the clients on the platform are from the US, EST time zone. The clients that contact me via LinkedIn, YouTube, and even via Reddit, are also usually from the US.
